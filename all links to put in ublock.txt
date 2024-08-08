@@ -1,0 +1,14 @@
+all links to put in ublock :
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_1.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_2.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_3.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_4.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_5.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_6.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_7.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_8.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_9.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_10.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_11.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_12.txt
+https://raw.githubusercontent.com/ademsahliano/hosts-file/main/safe1_part_13.txt
